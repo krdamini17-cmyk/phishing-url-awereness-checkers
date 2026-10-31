@@ -70,5 +70,5 @@ These are simple text-based heuristics. They can produce false positives and fal
 Use this project for defensive learning and awareness. Do not enter passwords or other sensitive information into unknown websites.
 
 ## Author
-Name: [Your Name]
-Course/Class: [Your Course / Class]
+Name: Damini K R
+Course: BCA
